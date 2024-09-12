@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Management System: A project in C++ that effectively manages and organizes data.**
+- 🔭 I’m currently working on **A project in C++ that effectively manages and organizes data. Em um projeto no excel de cadastro e geração automátizado de relatório e dashboard**
 
-- 🌱 I’m currently learning **Data Frameworks: I'm studying libraries like Pandas, NumPy, and Matplotlib, as well as learning about data visualization.Data Frameworks: I'm studying libraries like Pandas, NumPy, and Matplotlib, as well as learning about data visualization.**
+- 🌱 I’m currently learning **I'm studying libraries like Pandas, NumPy, and Matplotlib, as well as learning about data visualization.Data Frameworks: I'm studying libraries like Pandas, NumPy, and Matplotlib, as well as learning about data visualization.**
 
-- 👯 I’m looking to collaborate on **Data Analysis Project: I'm open to collaborations on projects involving data analysis and visualization.**
+- 👯 I’m looking to collaborate on **I'm open to collaborations on projects involving data analysis and visualization.**
 
-- 🤝 I’m looking for help with **Learning Beyond Python: I want to explore other languages or data analysis tools that can complement my knowledge.**
+- 🤝 I’m looking for help with **I want to explore other languages or data analysis tools that can complement my knowledge.**
 
 - 👨‍💻 All of my projects are available at [pamellabarbosa201](pamellabarbosa201)
 
-- 💬 Ask me about **React, Vue, and GSAP: I have an interest in frontend technologies and how they can integrate with data analysis.**
+- 💬 Ask me about **I have an interest in frontend technologies and how they can integrate with data analysis.**
 
 - 📄 Know about my experiences [linkedin.com/in/pamella-barbosa](linkedin.com/in/pamella-barbosa)
 
