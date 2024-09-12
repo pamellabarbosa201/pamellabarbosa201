@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **A project in C++ that effectively manages and organizes data. Em um projeto no excel de cadastro e geração automátizado de relatório e dashboard**
+- 🔭 I’m currently working on **A project in C++ that effectively manages and organizes data e Em um projeto no excel de cadastro e geração automátizado de relatório e dashboard.**
 
 - 🌱 I’m currently learning **I'm studying libraries like Pandas, NumPy, and Matplotlib, as well as learning about data visualization.Data Frameworks: I'm studying libraries like Pandas, NumPy, and Matplotlib, as well as learning about data visualization.**
 
